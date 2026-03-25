@@ -1,0 +1,9 @@
+# Ignorar carpetas de compilación
+build/
+dist/
+*.spec
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
